@@ -1,0 +1,400 @@
+Hello
+How are you
+Good morning
+Thank you
+Yes
+No
+Please
+Sorry
+Welcome
+Good night
+What's your name
+My name is
+Nice to meet you
+How much is this
+Can you help me
+I don't understand
+Where is the bathroom
+I'm lost
+Excuse me
+What time is it
+I need a doctor
+Call the police
+I love you
+Good afternoon
+Good evening
+I am sorry
+See you later
+Good bye
+Take care
+Happy birthday
+Congratulations
+Best wishes
+Get well soon
+Happy anniversary
+Merry Christmas
+Happy New Year
+What are you doing
+Where are you from
+I am from
+How old are you
+Do you speak English
+I don't speak Hindi well
+What is this
+I am hungry
+I am thirsty
+I am tired
+How far is it
+What do you want
+I want water
+Please sit down
+Stand up
+Open the door
+Close the door
+Come here
+Go there
+Wait a minute
+Be careful
+What happened 
+Can you repeat that
+I am fine
+I am not well
+Can I have the bill
+I am learning Hindi
+Do you understand
+I understand
+I don't understand
+Can you speak slowly
+What does this mean
+How do you say in Hindi
+I am sorry for being late
+Where is the nearest hospital
+I need a taxi
+How much does it cost
+Please write it down
+Can you show me
+What is your phone number
+My phone number is
+I need to make a call
+I need directions
+Is it safe here
+What is your email address
+My email address is
+Where can I buy this
+I am lost
+Can I take a photo
+I need help
+Where is the exit
+I am looking for
+What is the price
+Is there a discount
+Do you have change
+Can I pay by card
+I am vegetarian
+I am allergic to
+Can you help me with my luggage
+I am here on vacation
+Where can I get a SIM card
+Can I get a receipt
+What is your address
+My address is
+What is your name
+Can you help me
+Where is the bathroom
+What time is it
+I love you
+See you later
+Goodbye
+Take care
+Best wishes
+Get well soon
+What are you doing
+Where are you from
+I am from
+How old are you
+Do you speak English
+I don't speak Hindi well
+What is this
+I am hungry
+I am thirsty
+I am tired
+How far is it
+What do you want
+I want water
+Please sit down
+Stand up
+Open the door
+Close the door
+Come here
+Go there
+Wait a minute
+Be careful
+What happened
+Can you repeat that
+I am fine
+I am not well
+Can I have the bill
+I am learning Hindi
+Do you understand
+I understand
+Can you speak slowly
+What does this mean
+How do you say in Hindi
+I am sorry for being late
+Where is the nearest hospital
+I need a taxi
+How much does it cost
+Please write it down
+Can you show me
+What is your phone number
+My phone number is
+I need to make a call
+I need directions
+Is it safe here
+What is your email address
+My email address is
+Where can I buy this
+I am lost
+Can I take a photo
+I need help
+Where is the exit
+I am looking for
+What is the price
+Is there a discount
+Do you have change
+Can I pay by card
+I am vegetarian
+I am allergic to
+Can you help me with my luggage
+I am here on vacation
+Where can I get a SIM card
+Can I get a receipt
+What is your address
+My address is
+I like this
+I don't like this
+This is good
+This is bad
+I agree
+I disagree
+What do you think
+I think so
+I don't think so
+I am busy
+I am free
+I am ready
+I am not ready
+Do you need anything
+What do you need
+I need water
+I need food
+I am happy
+I am sad
+I am angry
+I am scared
+I am excited
+I am bored
+I am surprised
+I am worried
+I am confused
+I am relaxed
+Help
+Friend
+Family
+Food
+Water
+Drink
+Tea
+Coffee
+Breakfast
+Lunch
+Dinner
+Restaurant
+Hotel
+House
+Home
+Room
+Bed
+Chair
+Table
+Window
+Door
+Key
+Car
+Bus
+Train
+Airplane
+Ticket
+Station
+Airport
+Market
+Shop
+Price
+Cheap
+Expensive
+Beautiful
+Ugly
+Big
+Small
+Old
+New
+Clean
+Dirty
+Hot
+Cold
+Warm
+Cool
+Fast
+Slow
+Early
+Late
+Today
+Tomorrow
+Yesterday
+Morning
+Afternoon
+Evening
+Night
+Week
+Month
+Year
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+Happy
+Sad
+Angry
+Fear
+Excited
+Bored
+Tired
+Energetic
+Hungry
+Thirsty
+Busy
+Free
+Ready
+Not ready
+Lost
+Found
+Important
+Unimportant
+Right
+Wrong
+Correct
+Incorrect
+Good
+Bad
+Better
+Worse
+Best
+Worst
+Left
+Right
+Up
+Down
+Near
+I am coming
+I am going
+What time do we leave
+What time do we arrive
+I am here
+I am there
+I am busy right now
+I am free right now
+Please wait for me
+Can I ask you something
+Do you need any help
+How can I help you
+Can you tell me the way
+What is the weather like
+Is it raining
+Is it sunny
+Is it cloudy
+Is it snowing
+What is your profession
+I am a student
+I am a teacher
+I am an engineer
+I am a doctor
+I am a nurse
+I am a lawyer
+I am a businessman
+I am an artist
+I am a musician
+I am an actor
+What is your hobby
+I like reading
+I like writing
+I like painting
+I like singing
+I like dancing
+I like cooking
+I like traveling
+I like sports
+I like watching movies
+I like listening to music
+What is your favorite color
+What is your favorite food
+What is your favorite book
+What is your favorite movie
+What is your favorite song
+What is your favorite place
+What is your favorite sport
+How can I reach you
+Can you call me
+Can you message me
+Can you email me
+I need to talk to you
+I need to see you
+I need to meet you
+Can we meet tomorrow
+Can we talk later
+Can we discuss this
+Let's go out
+Let's stay in
+Let's eat out
+Let's cook at home
+Let's watch a movie
+Let's play a game
+Let's go for a walk
+Let's go for a drive
+Let's go shopping
+Let's visit a friend
+Let's take a break
+Let's work together
+Let's start now
+Let's finish this
+Let's have fun
+Let's be friends
+Let's keep in touch
+Let's make plans
+Let's make a list
+Let's make a call
+Let's make a decision
+Let's make an appointment
+Let's make a reservation
+Let's make a promise
+Let's make an effort
+Let's make a change
+Let's make a difference
+Let's make it happen
+Let's make it work
+Let's make it better
+Let's make it easy
+Let's make it quick
+Let's make it right
+Let's make it clear
+Let's make it simple
+Let's make it possible
+Let's make it memorable
+Let's make it special
+Let's make it perfect
+Let's make it safe
+Let's make it secure
+Let's make it successful
+Let's make it amazing
